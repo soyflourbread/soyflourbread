@@ -1,5 +1,5 @@
-### hello :strawberry:.
+### hello :strawberry:. i break stuff.
 
-i break stuff. i *"sometimes"* fix them.
+i *"sometimes"* fix them.
 check out this bird:
 ![this bird](images/bird.png)
